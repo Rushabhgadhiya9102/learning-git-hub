@@ -3,5 +3,4 @@
 void main(){
 
     printf("we are learning github");
-   dfghjk 
 }
